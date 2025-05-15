@@ -29,6 +29,6 @@
 	},
 	"outDir": "./dist/",
 	"include": [
-		"docs/**/*"
+		"src/**/*"
 	]
 }
