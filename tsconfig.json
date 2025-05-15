@@ -27,6 +27,6 @@
 			"components/*": ["src/components/*"]
 		}
 	},
-	"outDir": "./dist/",
+	"outDir": "./docs/dist/",
 	"include": ["src/**/*"]
 }
